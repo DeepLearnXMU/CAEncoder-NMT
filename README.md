@@ -3,7 +3,24 @@ Source code for A Context-Aware Recurrent Encoder for Neural Machine Translation
 
 If you use this code, please cite <a href="https://doi.org/10.1109/TASLP.2017.2751420">our paper</a>:
 ```
-This paper is now accepted by IEEE/ACM Transactions on Audio, Speech, and Language Processing.
+@article{Zhang:2017:CRE:3180104.3180106,
+ author = {Zhang, Biao and Xiong, Deyi and Su, Jinsong and Duan, Hong},
+ title = {A Context-Aware Recurrent Encoder for Neural Machine Translation},
+ journal = {IEEE/ACM Trans. Audio, Speech and Lang. Proc.},
+ issue_date = {December 2017},
+ volume = {25},
+ number = {12},
+ month = dec,
+ year = {2017},
+ issn = {2329-9290},
+ pages = {2424--2432},
+ numpages = {9},
+ url = {https://doi.org/10.1109/TASLP.2017.2751420},
+ doi = {10.1109/TASLP.2017.2751420},
+ acmid = {3180106},
+ publisher = {IEEE Press},
+ address = {Piscataway, NJ, USA},
+}
 ```
 
 ## How to Run?
